@@ -43,7 +43,7 @@ const Header = () => {
 
   const bubbles = theme === "light" ? bubblesLight : bubblesDark;
 
-  const selectedIndexes = [0, 3]; // you can customize this
+  const selectedIndexes = [0, 3]; 
   const displayedBubbles = isMobile
     ? selectedIndexes.map(index => bubbles[index]).filter(Boolean)
     : bubbles;
@@ -105,8 +105,9 @@ const Header = () => {
             functional web applications with modern technologies.
           </p>
           <a
-            href="../assets/Resume.pdf"
-            download
+            href="/Resume.pdf"
+            download="Bavanetha_Resume.pdf"
+            target = "_blank"
             className={`inline-block px-8 py-4 rounded-md font-semibold transition ${
               theme === "dark"
                 ? "bg-pinkPrimary text-black hover:bg-pinkPrimary/80"
