@@ -54,7 +54,7 @@ const projectsData = [
     description:
       "An AI-integrated expense tracker that helps you manage and analyze your spending patterns effectively.",
     github: "https://github.com/Bavanetha27/SpendWise.git",
-    vercel: "",
+    vercel: "https://spend-wise-six-olive.vercel.app",
     techStacks: ["React", "Node.js", "MongoDB", "AI"],
     image: spendwise,
   },
