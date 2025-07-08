@@ -23,7 +23,7 @@ const achievementsData = [
     year: "2024",
   },
   {
-    title: "Pragati – Path to Future Comfort 3.0",
+    title: "Pragati – Path to Future Cohort 3",
     description: "Participated and gained recognition in this national innovation event.",
     year: "2025",
   },
