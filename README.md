@@ -2,7 +2,23 @@
   👋 Hey there, I'm <span style="background:linear-gradient(90deg,#00b4d8,#8a2be2);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Bavanetha M R</span>!
 </h1>
 <p align="center">💻 Software Developer | 🤖 AI Explorer | 🎨 UI/UX Designer</p>
-
+<p align="center">
+  <!-- GitHub Badge -->
+  <a href="https://github.com/Bavanetha27">
+    <img src="https://img.shields.io/badge/GitHub-Bavanetha27-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <!-- Social Badges -->
+  <a href="mailto:bavanethamr@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bavanethamr">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://bavanetha.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ### 🌟 My Skills & Ratings
