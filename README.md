@@ -92,7 +92,7 @@
 <p align="center">
   <a href="mailto:bavanethamr@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/></a>
   <a href="https://www.linkedin.com/in/bavanethamr"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  <a href="https://bavanetha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://bavanetha.vercel.app/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40"/></a>
   <a href="https://github.com/Bavanetha27"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40"/></a>
 </p>
 
