@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hey there, I'm <span style="background:linear-gradient(90deg,#00b4d8,#8a2be2);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Bavanetha M R</span>!
 </h1>
-<p align="center">💻 Frontend Developer | 🤖 AI Explorer | 🎨 UI/UX Designer</p>
+<p align="center">💻 Software Developer | 🤖 AI Explorer | 🎨 UI/UX Designer</p>
 
 ---
 
