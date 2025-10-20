@@ -3,11 +3,6 @@
 </h1>
 <p align="center">💻 Software Developer | 🤖 AI Explorer | 🎨 UI/UX Designer</p>
 <p align="center">
-  <!-- GitHub Badge -->
-  <a href="https://github.com/Bavanetha27">
-    <img src="https://img.shields.io/badge/GitHub-Bavanetha27-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
   <!-- Social Badges -->
   <a href="mailto:bavanethamr@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -97,7 +92,7 @@
 <p align="center">
   <a href="mailto:bavanethamr@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/></a>
   <a href="https://www.linkedin.com/in/bavanethamr"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  <a href="https://bavanetha.vercel.app/"><img src="https://img.icons8.com/color/48/000000/website.png" width="40"/></a>
+  <a href="https://bavanetha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/Bavanetha27"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40"/></a>
 </p>
 
